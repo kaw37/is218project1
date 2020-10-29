@@ -26,4 +26,4 @@ if ($email)
     echo "Email missing";
 }
 ?>
-<div><a href="index.html">Home</a></div>
+<div><a href="project1index.html">Home</a></div>
